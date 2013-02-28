@@ -1,4 +1,4 @@
-This is simple scanner written in perl.
+This is simple port scanner written in perl.
 
 USAGE:
 perl scan.pl [HOST] [MINIMAL_PORT] [MAXIMAL_PORT]
