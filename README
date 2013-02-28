@@ -1,0 +1,7 @@
+This is simple scanner written in perl.
+
+USAGE:
+perl scan.pl [HOST] [MINIMAL_PORT] [MAXIMAL_PORT]
+
+As output you will get a list of all these ports.
+Each line will begin with :: (if port is close) or >> (if port is open).
