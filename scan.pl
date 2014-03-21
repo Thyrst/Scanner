@@ -1,5 +1,9 @@
 #!/usr/bin/perl  -w
 # Simple TCP scanner by Thyrst'
+#
+# This script is licensed under a Do What the Fuck You Want to Public License
+# (http://www.wtfpl.net/txt/copying/).
+#
 use strict;
 use IO::Socket;
 use Net::Ping;
